@@ -102,6 +102,10 @@ body {
   .project_link {
     margin-left: 10px;
   }
+
+  .project_link:hover {
+    color: #fb6d3a;
+  }
   
   .project_bracket {
     font-style: normal;
